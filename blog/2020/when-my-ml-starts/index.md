@@ -32,7 +32,7 @@ Each chapter of the book ends with a questionnaire which helps you checking your
 What I've learned:
 
 - Natural language procession (NLP), computer vision, medicine, biology and image generation are currently the main areas of deep learning
-- A brief historical survey (from the first artificial neurons to neuronal networks)
+- A brief historical survey (from the first artificial neurons to **neuronal networks**)
 - Understand **machine learning** as another way (other than writing a program) to let computers do their task - by learning from their experience (= **training**)
 - Training
   - Requires training data
@@ -48,7 +48,7 @@ What I've learned:
   - and optional a separate **test set** to test the model with never seen data
 - An **epoch** is a complete pass through the training data
 - A **metric** measures the accuracy of a model
-- The **loss** is the measured accuracy
+- The **loss** shows the measured accuracy
 - Too long training could lead to **overfititng** which means that the model memorizes the training data more than the general patterns 
 - There are **weight parameters** in a neuronal network (or model) and **hyperparameters** determing the training process.
 - **Pretrained models** can be used for faster training. Training such a model with new data is called **fine-tuning**.
