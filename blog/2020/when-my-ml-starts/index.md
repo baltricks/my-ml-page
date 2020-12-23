@@ -1,9 +1,9 @@
 ---
 title: When my ML learning starts
-description: An exiting book - My Coding Environment -  What I've learned until now
+description: An exciting book - My Coding Environment -  What I've learned until now
 ---
 
-## An exiting book
+## An **exciting** book
 
 In late 2020 I came across *Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD* by Jeremy Howard & Sylvain Gugger and I was directly inspired and excited to dive into deep learning. Deep Learning, Machine Learning, AI and all the other terms of artifical intelligence had been very unclear to me - even though I'd been working for many years as a software developer. But with this book I got the feeling that the door to this domain is now opened to me. Opened by authors with long lasting experience in coding and teaching AI. 
 
@@ -29,29 +29,17 @@ With this setting I was able to run the first prepared samples (image classifier
 
 Each chapter of the book ends with a questionnaire which helps you checking your learning progress.
 
-What I've learned:
+I learned 
 
-- Natural language procession (NLP), computer vision, medicine, biology and image generation are currently the main areas of deep learning
-- A brief historical survey (from the first artificial neurons to **neuronal networks**)
-- Understand **machine learning** as another way (other than writing a program) to let computers do their task - by learning from their experience (= **training**)
-- Training
-  - Requires training data
-  - A model can only learn from input data
-  - It creates only predictions (based on the input)
-  - Training data must be labeled (correctly)
-- The two main types of models are
-  - **Classification**: the model makes a prediction about a class or category
-  - **Regression**: the model makes a quantified prediction
-- Input Data is divided into different data sets:
-  - a **training set** used as training input
-  - a **validation set** (or development set) to measure the accuracy of the model
-  - and optional a separate **test set** to test the model with never seen data
-- An **epoch** is a complete pass through the training data
-- A **metric** measures the accuracy of a model
-- The **loss** shows the measured accuracy
-- Too long training could lead to **overfititng** which means that the model memorizes the training data more than the general patterns 
-- There are **weight parameters** in a neuronal network (or model) and **hyperparameters** determing the training process.
-- **Pretrained models** can be used for faster training. Training such a model with new data is called **fine-tuning**.
+- about the main areas of deep learning
+- a brief historical survey (from the first artificial neurons to **neuronal networks**)
+- **machine learning** as another way (other than writing a program) to let computers do their task - by learning from their experience (= **training**)
+- how training works
+- models create **predictions** coming from input data
+- different types of models like **classification** and **regression**
+- the meaning of input data and its division into different data sets like a **training set** used as training input, **validation set** (or development set) to measure the accuracy of a model and optional a separate **test set** to test a model with never seen data
+- a lot new terms like **epoch**, **metric** **loss**, **overfitting** ...
+- the use of **retrained models** (and **fine-tuning**)
 
 
 
