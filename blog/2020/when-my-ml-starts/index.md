@@ -38,7 +38,7 @@ I learned
 - models create **predictions** coming from input data
 - different types of models like **classification** and **regression**
 - the meaning of input data and its division into different data sets like a **training set** used as training input, **validation set** (or development set) to measure the accuracy of a model and optional a separate **test set** to test a model with never seen data
-- a lot new terms like **epoch**, **metric** **loss**, **overfitting** ...
+- a lot new terms like **epoch**, **metric**, **loss**, **overfitting** ...
 - the use of **pretrained models** (and **fine-tuning**)
 
 
