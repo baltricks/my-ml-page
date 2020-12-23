@@ -3,7 +3,7 @@ title: When my ML learning starts
 description: An exciting book - My Coding Environment -  What I've learned until now
 ---
 
-## An **exciting** book
+## An exciting book
 
 In late 2020 I came across *Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD* by Jeremy Howard & Sylvain Gugger and I was directly inspired and excited to dive into deep learning. Deep Learning, Machine Learning, AI and all the other terms of artifical intelligence had been very unclear to me - even though I'd been working for many years as a software developer. But with this book I got the feeling that the door to this domain is now opened to me. Opened by authors with long lasting experience in coding and teaching AI. 
 
@@ -39,7 +39,7 @@ I learned
 - different types of models like **classification** and **regression**
 - the meaning of input data and its division into different data sets like a **training set** used as training input, **validation set** (or development set) to measure the accuracy of a model and optional a separate **test set** to test a model with never seen data
 - a lot new terms like **epoch**, **metric** **loss**, **overfitting** ...
-- the use of **retrained models** (and **fine-tuning**)
+- the use of **pretrained models** (and **fine-tuning**)
 
 
 
