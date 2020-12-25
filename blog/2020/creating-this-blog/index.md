@@ -15,9 +15,9 @@ So a great part of this work is just thinking and making decisions. And that's o
 
 And another important reason is the hope that this blog will one day **help others on their way**. Today there is so much free content in the internet and such a great community sharing it. This makes learning and development available for everybody. I benefit from this since years.  
 
-## This site is a GitHub page
+## This blog is a GitHub page
 
-To keep things easy I decided to use [GitHub Pages](https://pages.github.com) for publishing. I created a new git repository on GitHub and choose the main branch as page source and the [cayman theme](https://github.com/pages-themes/cayman) as Jekyll theme. All this can be done in the *Settings / Github Pages* Section of the repository.
+To keep things easy I decided to use [GitHub Pages](https://pages.github.com) for this blog. I created a new git repository on GitHub and choose the main branch as page source and the [cayman theme](https://github.com/pages-themes/cayman) as Jekyll theme. All this can be done in the *Settings / Github Pages* section of the repository.
 
 I created a directory structure for my future posts and made my adaptations in the *index.md* (as the home page of the blog) and *_config.yml* (the theme configuration). For layout customization I copied the *_layouts/default.html* from the [origin theme repository](https://github.com/pages-themes/cayman) into my repository and made my (minor) changes.
 
