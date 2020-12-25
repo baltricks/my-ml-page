@@ -23,6 +23,6 @@ I created a directory structure for my future posts and made my adaptations in t
 
 So I could create my first post (*\*.md*) and reference it in my home page of the blog (*index.md*). The posts are written in the markdown syntax of the github platform. You can find a short markdown guide [here](https://guides.github.com/features/mastering-markdown/).
 
-When I began to fill my first post with content I changed my procedure. Before that moment I did all editing via browser in the GitHub web site. But then I changed to my local computer. I used my *Git Bash* to clone the repository and made my editing locally with *Visual Studio Code*. There is a very nice extension called *Markdown All in One* which helps you writing pages in the markdown syntax. Now - when ready for publishing I only have to push it to its origin repository. The GitHub page updates automatically.
+When I began to fill my first post with content I changed my procedure. Before that moment I did all editing via browser in the GitHub web site. But then I changed to my local computer. I used my *Git Bash* to clone the repository and made my editing locally with *Visual Studio Code*. There is a very nice extension called *Markdown All in One* which helps you writing pages in the markdown syntax. Now - when ready for publishing - I only have to push my content to the origin repository. The page updates automatically.
 
 
