@@ -21,5 +21,8 @@ To keep things easy I decided to use [GitHub Pages](https://pages.github.com) fo
 
 I created a directory structure for my future posts and made my adaptations in the *index.md* (as the home page of the blog) and *_config.yml* (the theme configuration). For layout customization I copied the *_layouts/default.html* from the origin into my repository and made my (minor) changes.
 
-So I could start writing my first post and referencing it in my home page of the blog (*index.md*). The posts are written in the markdown syntax of the github platform. You can find a short markdown guide [here](https://guides.github.com/features/mastering-markdown/).
+So I could create my first post file (*<postname>.md*) and reference it in my home page of the blog (*index.md*). The posts are written in the markdown syntax of the github platform. You can find a short markdown guide [here](https://guides.github.com/features/mastering-markdown/).
+
+When I began to fill my first post with content I changed my procedure. Before that moment I did all editing via browser in the GitHub web site. But then I changed to my local computer. I used my *Git Bash* to clone the repository and made my editing locally with *Visual Studio Code*. There is a very nice extension called *Markdown All in One* which helps you writing pages in the markdown syntax. Now - when ready for publishing I only have to push it to its origin repository. The GitHub page updates automatically.
+
 
