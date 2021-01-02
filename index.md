@@ -1,6 +1,5 @@
-## Attention!
-**This blog has been moved to 
-[my new page](https://baltricks.github.io/my-ml-learning-blog/) built with [fastpages](https://fastpages.fast.ai/) **
+*Attention! This blog has been moved to 
+[my new page](https://baltricks.github.io/my-ml-learning-blog/) built with [fastpages](https://fastpages.fast.ai/)*
 
 
 <br/>
